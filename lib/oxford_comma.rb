@@ -9,5 +9,5 @@ def oxford_comma(array)
         
       
 end
-array.split(",")
+array.join (",")
 end
